@@ -1,0 +1,1 @@
+{"name":"Redirect","tagline":"","body":"<html lang=\"en-us\">\r\n\r\n  <head>\r\n  <script>\r\n  $(function() {\r\n    $('a[href=\"http://www.stanford.edu/%%30%30\"]').breakThisLink();\r\n  });\r\n  </script>\r\n</head>\r\n</html>","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
